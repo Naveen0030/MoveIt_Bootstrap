@@ -1,1 +1,1 @@
-# A websaite MoveIt_ using Bootstrap
+# A website MoveIt_ using Bootstrap
